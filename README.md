@@ -1,2 +1,2 @@
-# COVID-19-MERN-STACK
-PLOTTING CORONAVIRUS IN WORLD MAP _WEBMONK
+# covid19-map-app-MERN-STACK
+covid19 map app final project final project
